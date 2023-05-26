@@ -1,8 +1,6 @@
 # Coding Assignment Introduction
 
-## Guidline
-
-- We understand the importance of your time, and we appreciate your effort in completing this assignment. Please note that we dont expect you to spend more than 2-4 hours. We understand that completing the entire feature list may not be feasible within this time constraint, and that is absolutely fine. Our main objective is to assess your understanding of the given tasks and your coding skills. Feel free to focus on implementing the core functionalities and demonstrating your expertise in React Native. If you have any questions or need further clarification, please don't hesitate to reach out to us.
+- We understand the importance of your time, and we appreciate your effort in completing this assignment. If you have any questions or need further clarification, please don't hesitate to reach out to us.
 
 ## Design
 
