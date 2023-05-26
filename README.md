@@ -11,6 +11,7 @@
 ## Existing Content
 
 - API calls
+- Openapi specification json file
 - Navigation
 - Types
 - Assets
