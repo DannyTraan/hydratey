@@ -30,3 +30,8 @@ Optional Task:
 
 - Display the rank for Today (it is the same even if All Time - Overall segmented control value is selected).
 - Add a delete drinks feature ("X" icon in the list item).
+
+Nice to haves:
+
+- State management
+- Persistence
