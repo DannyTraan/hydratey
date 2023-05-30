@@ -1,6 +1,6 @@
 # Coding Assignment Introduction
 
-- We understand the importance of your time, and we appreciate your effort in completing this assignment. If you have any questions or need further clarification, please don't hesitate to reach out to us.
+We understand the importance of your time, and we appreciate your effort in completing this assignment. If you have any questions or need further clarification, please don't hesitate to reach out to us.
 
 ## Design
 
